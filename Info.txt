@@ -1,0 +1,14 @@
+
+VS19 and Github
+https://www.youtube.com/watch?v=Y1fBfrcRMEs
+-------------------------------------------------
+
+https://git-scm.com/doc/ext
+---------------------------------------------------------------------------------------
+https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration
+Book
+2nd Edition (2014)
+Download Ebook
+
+The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here. All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3.0 license. Print versions of the book are available on Amazon.com. 
+---------------------------------------------------------------------------------------------
